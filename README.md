@@ -1,2 +1,2 @@
-# payfit
+# MaN
 Test and POC
